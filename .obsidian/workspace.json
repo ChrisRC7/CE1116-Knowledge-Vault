@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b63393602bc892",
+        "id": "e27b70577ca05d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "19ad59c844c93d1c",
+            "id": "aab859f5cdffa56d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -57,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -166,9 +166,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19ad59c844c93d1c",
+  "active": "aab859f5cdffa56d",
   "lastOpenFiles": [
+    "CE1116/Conceptos de Cloud/03_Disponibilidad_y_Resilencia/Redundante en zona en el cloud.md",
+    "CE1116/Conceptos de Cloud/03_Disponibilidad_y_Resilencia/Redundante localmente en el cloud.md",
+    "CE1116/Conceptos de Cloud/02_Servicios_y_Escalabilidad/IaaS vs PaaS vs SaaS.md",
+    "CE1116/Conceptos de Cloud/02_Servicios_y_Escalabilidad/Escalamiento horizontal y vertical en el cloud.md",
+    "CE1116/Conceptos de Cloud/01_Modelos_y_Redes/Cloud Híbrido (Hybrid cloud).md",
+    "CE1116/Conceptos de Cloud/01_Modelos_y_Redes/Virtual Private Cloud (VPC).md",
+    "CE1116/Conceptos de Cloud/01_Modelos_y_Redes/Cloud Público.md",
+    "CE1116/Conceptos de la IA/03_Modelado/Función de Activación.md",
+    "CE1116/Conceptos de Cloud/03_Disponibilidad_y_Resilencia/Redundante geo-redundante en el cloud.md",
+    "CE1116/Conceptos de Cloud/03_Disponibilidad_y_Resilencia",
+    "Sin nombre",
+    "CE1116/Conceptos de Cloud/02_Servicios_y_Escalabilidad",
+    "Sin título.canvas",
     "CE1116/Conceptos de la IA/02_Representación/Embeddings.md",
+    "CE1116/00_Inbox",
+    "CE1116/Conceptos de Cloud/01_Modelos_y_Redes",
+    "CE1116/Conceptos de Cloud",
     "CE1116/Conceptos de Principios de Modelado/01_Proceso de Desarrollo/Filosofía ágil.md",
     "CE1116/Conceptos de Principios de Modelado/01_Proceso de Desarrollo/Product Owner.md",
     "CE1116/Conceptos de Principios de Modelado/01_Proceso de Desarrollo/Scrum.md",
@@ -185,26 +201,10 @@
     "CE1116/Conceptos de Principios de Modelado/03_Implementación/Story Points.md",
     "CE1116/Conceptos de Principios de Modelado/03_Implementación/Taskboard.md",
     "CE1116/Conceptos de Principios de Modelado/03_Implementación/Velocity.md",
-    "CE1116/Conceptos de Principios de Modelado/04_Pruebas/Definition of Done (DoD).md",
-    "CE1116/Conceptos de Principios de Modelado/04_Pruebas/Pruebas Funcionales.md",
-    "CE1116/Conceptos de Principios de Modelado/Definition of Done (DoD).md",
-    "CE1116/Conceptos de la IA/05_Limites_y_Desempeño/Ventana de Contexto.md",
-    "CE1116/Conceptos de la IA/05_Limites_y_Desempeño/Alucinaciones.md",
-    "CE1116/Conceptos de la IA/04_Arquitectura/Mecanismo de Atención.md",
-    "CE1116/Conceptos de la IA/04_Arquitectura/Arquitectura Transformer.md",
-    "CE1116/Conceptos de la IA/03_Modelado/Redes Neuronales.md",
-    "CE1116/Conceptos de la IA/03_Modelado/Función de Activación.md",
-    "CE1116/00_Inbox",
     "CE1116/Conceptos de la IA/05_Limites_y_Desempeño",
     "CE1116/Conceptos de la IA/04_Arquitectura",
     "CE1116/Conceptos de la IA/03_Modelado",
     "CE1116/Conceptos de la IA/02_Representación",
-    "CE1116/Conceptos de la IA/01_Preprocesamiento",
-    "CE1116/Conceptos de la IA",
-    "CE1116/Conceptos de Principios de Modelado/04_Pruebas",
-    "CE1116/Conceptos de Principios de Modelado/03_Implementación",
-    "CE1116/Conceptos de Principios de Modelado/02_Requerimientos",
-    "Sin título.canvas",
     "Untitled.canvas"
   ]
 }
